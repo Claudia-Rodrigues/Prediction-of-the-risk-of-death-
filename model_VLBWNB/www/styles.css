@@ -1,0 +1,100 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap');
+
+#cover {
+     font-family: 'Pangolin', cursive;
+     font-size: 32px;
+     font-weight: 500;
+     line-height: 0.9;
+     color: #000000;
+     text-align: center;
+     border-style: solid;
+     border-color: white;
+     background-color:white;
+     padding-left: 15px;
+}
+
+
+body {
+  padding-top: 200px;
+  background-image: url("https://www.gravidasonline.com/wp-content/uploads/bebe-baixo-peso.jpg");
+  background-size: cover;
+}
+
+/* for the prediction tab, the style of the box title */
+#prevision{
+     font-family: 'Montserrat', sans-serif;
+     font-size: 25px;
+     font-weight: 500;
+     line-height: 200%;
+     color: #ffffff;
+     text-align: center;
+     text-decoration-color: white;
+     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+     
+}
+
+/* change the letter of VLBW newborn in the navigation bar*/
+.navbar-brand {
+  font-family: 'Montserrat', sans-serif;
+  width: 200px; 
+  font-size:22px; 
+  text-align:center;
+  
+  
+}
+
+/* for the prediction tab, the color of the box containing the title*/
+#wp{
+  
+  background-color: thistle;
+  border-style: solid;
+  border-color: black;
+  opacity: 0.95;
+}
+
+/* for the prediction tab, the color of the box containing the title - its position*/
+#fr1{
+ position:absolute;top:0;bottom:0;left:0;right: 0;
+ padding-bottom:19px;
+
+}
+
+/* to the "About" navigation tab, background box design*/
+#wp_sobre {
+   
+ height:100%;
+}
+
+/* for the "prediction" tab, change the design of the sidebarPanel */
+#sp {
+ background: rgba(255,255,255, 0.75)
+}
+
+/* for the "prediction" tab, change the design of the mainPanel */
+#prev_mp {
+  border-style: solid;
+  border-radius: 5px; 
+  border-color: rgba(255,255,255, 0.75);
+  background: rgba(255,255,255, 0.75);
+  
+}
+
+#img_r {
+ display: inline-block;
+ 
+}
+
+#img_rstudio {
+  display: inline-block;
+  
+}
+
+h4 {
+  color:Purple;
+  text-align:center;
+  
+}
+
