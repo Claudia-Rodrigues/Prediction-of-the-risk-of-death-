@@ -1,5 +1,5 @@
 
-# Prediction of the risk of death in very low birth weight newborns
+# Shiny application that predict the risk of death of very low birth weight newborns
 ## Context
 Neonatal mortality is a major health concern worldwide, and one of the groups of babies that has contributed most to this outcome are the very low birth weight newborns. Thus, knowing the variables that most contribute to the mortality of these newborns, as well as calculating their risk of death has become an important issue, as they may facilitate decision making by health professionals in procedure and treatment to follow. In this context, the theme of this project appeared, whose main objective was to develop a logistic regression model, which works as a classifier and which will predict whether a particular newborn weighing less than 1500 grams will survive or die. To facilitate its use, a shiny application was created, in which the model was implemented.
 
