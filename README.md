@@ -9,7 +9,7 @@ The Shiny application developed for this work has an environment organized in 3 
 **Home Page:** The first tab of the application's navigation bar corresponds to the application's home page, which shows only the application title.<br/>
 
 ![GitHub HOMEPAGE](/image/HomePage.PNG)
-<img src="HomePage.PNG" width="200"/>
+<img src="HomePage.PNG" width="200">
 
 
 **About:** In the second tab for the application is where is explained the purpose of the application, the authors responsible for its development, the tools used for its construction, as well as a brief description of the model / algorithm implemented in it. In the part of the model description, the accuracy of the model is presented, the AUC values for internal and external validation and the variables that are part of the model, accompanied by a short description of which values and metrics can be used for each one.<br/>
