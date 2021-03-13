@@ -6,7 +6,7 @@ Neonatal mortality is a major health concern worldwide, and one of the groups of
 ## Shiny application structure
 The Shiny application developed for this work has an environment organized in 3 tabs, each with its own purpose:<br/>
 
-<span style="font-size:14pt;color:#7CFC00;">**Home Page:**</span> The first tab of the application's navigation bar corresponds to the application's home page, which shows only the application title.<br/>
+<br/><span style="font-size:14pt;color:#7CFC00;">**Home Page:**</span> The first tab of the application's navigation bar corresponds to the application's home page, which shows only the application title.<br/>
 
 <p align ="center">
   <img src="https://github.com/Claudia-Rodrigues/Risk-of-death-VLBWNM/blob/main/image/HomePage.PNG" width="650" height="300" />
