@@ -5,7 +5,9 @@ Neonatal mortality is a major health concern worldwide, and one of the groups of
 
 ## Shiny application structure
 The Shiny application developed for this work has an environment organized in 3 tabs, each with its own purpose:<br/>
-**Home Page:** The first tab of the application's navigation bar corresponds to the application's home page, which shows only the application title.<br/>
+
+<h3>**Home Page:**<h3/> The first tab of the application's navigation bar corresponds to the application's home page, which shows only the application title.<br/>
+
 **About:** In the second tab for the application is where is explained the purpose of the application, the authors responsible for its development, the tools used for its construction, as well as a brief description of the model / algorithm implemented in it. In the part of the model description, the accuracy of the model is presented, the AUC values for internal and external validation and the variables that are part of the model, accompanied by a short description of which values and metrics can be used for each one.<br/>
 
 **Prevision:** In the “Prevision” tab of the Shiny application is where the prevision is calculated, in real time, if a particular very low birth weight newborn will survive or die. Here you should fill the form with the information of the baby that you want to know what will be the probability of dying. After clicking on the calculate button, the application returns the probable admission status of that baby and the percentage of risk of death. This application is configured so that values equal to or greater than 63%, will indicate that the baby will die.
