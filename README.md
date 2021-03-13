@@ -12,4 +12,4 @@ The Shiny application developed for this work has an environment organized in 3 
 
 **Prevision:** In the “Prevision” tab of the Shiny application is where the prevision is calculated, in real time, if a particular very low birth weight newborn will survive or die. Here you should fill the form with the information of the baby that you want to know what will be the probability of dying. After clicking on the calculate button, the application returns the probable admission status of that baby and the percentage of risk of death. This application is configured so that values equal to or greater than 63%, will indicate that the baby will die.
 
-<style>H2{color:Blue;}<style/>
+<style>H1{color:Blue;}</style>
