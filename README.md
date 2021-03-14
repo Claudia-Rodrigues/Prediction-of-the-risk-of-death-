@@ -22,6 +22,8 @@ The Shiny application developed for this work has an environment organized in 3 
   <img src="https://github.com/Claudia-Rodrigues/Risk-of-death-VLBWNM/blob/main/image/Prevision.PNG" width="650" height="300" />
   
 ## How to use the Shiny application
-First, make sure you have the following tools installed in your desktop:
+1. Make sure you have the following tools installed in your desktop:
 - [x] <a href="https://www.r-project.org/">R</a>
 - [x] <a href="https://rstudio.com/">RStudio</a>
+
+2. Download the code from my application by clicking on **Code** and then in **Download ZIP** and extract the files
