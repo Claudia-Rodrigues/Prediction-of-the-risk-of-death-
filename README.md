@@ -21,4 +21,4 @@ The Shiny application developed for this work has an environment organized in 3 
 <p align ="center">
   <img src="https://github.com/Claudia-Rodrigues/Risk-of-death-VLBWNM/blob/main/image/Prevision.PNG" width="650" height="300" />
   
-  ###How to use the Shiny application
+  ### How to use the Shiny application
