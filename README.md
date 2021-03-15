@@ -26,4 +26,6 @@ The Shiny application developed for this work has an environment organized in 3 
 - [x] <a href="https://www.r-project.org/">R</a>
 - [x] <a href="https://rstudio.com/">RStudio</a>
 
-2. Download the code from my application by clicking on **Code** and then in **Download ZIP** and extract the files
+2. Download my application code by clicking on **Code** and then in **Download ZIP** and extract the files
+
+3. In RStudio, go to the **File** menu and click on **New Project**. In the New Project Wizard window, select the **Existing Directory** option. Then, click in the **Browser** button and select the path where you saved the file with the code. Select path to folder "model_VLBWNB". Click on the **server.R** and ui.R scripts and on the **styles.css** script located inside the www folder. Finally, click on the **Run App** button. 
