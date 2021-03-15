@@ -28,4 +28,7 @@ The Shiny application developed for this work has an environment organized in 3 
 
 2. Download my application code by clicking on **Code** and then in **Download ZIP** and extract the files
 
-3. In RStudio, go to the **File** menu and click on **New Project**. In the New Project Wizard window, select the **Existing Directory** option. Then, click in the **Browser** button and select the path where you saved the file with the code. Select path to folder "model_VLBWNB". Click on the **server.R** and ui.R scripts and on the **styles.css** script located inside the www folder. Finally, click on the **Run App** button. 
+3. In RStudio, go to the **File** menu and click on **New Project**. In the New Project Wizard window, select the **Existing Directory** option. Then, click in the **Browser** button and select the path where you saved the file with the code. Select path to folder **"model_VLBWNB"**. Click on the **server.R** and **ui.R** scripts and on the **styles.css** script located inside the www folder. Finally, click on the **Run App** button. 
+
+<p align ="center">
+  <img src="https://github.com/Claudia-Rodrigues/Risk-of-death-VLBWNM/blob/main/image/procedure.PNG" width="650" height="300" />
